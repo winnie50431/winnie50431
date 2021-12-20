@@ -3,7 +3,7 @@
 
 "Don't put all eggs in one basket."
 
-"I just put all my eggs in F2E." - Winnie Lin
+"But I just put all my eggs in F2E." - Winnie Lin
 
 ---
 
