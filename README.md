@@ -1,7 +1,23 @@
-- 👋 Hi, I’m Winnie @winnie50431
-- 👀 I’m interested in coding, drawing and Japanese learning.
-- 🌱 I’m currently learning ReactJS to be an Frontend Engineer.
+
+---
+
+"Don't put all eggs in one basket."
+
+"I just put all my eggs in F2E." - Winnie Lin
+
+---
+
+*Hello world!* 
+
+- ✨ I’m Winnie Lin @winnie50431
+- 👀 interested in ***coding, drawing and Japanese learning.***
+- 🌱 currently learning ***ReactJS*** to be an Frontend Engineer.
 - 📫 mailto : winnie50431@gmail.com
+
+
+| **The lazier you are, the more likely you'll miss the people and things yoy like.**
+
+
 
 <!---
 winnie50431/winnie50431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
