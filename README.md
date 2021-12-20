@@ -15,7 +15,7 @@
 - 📫 mailto : winnie50431@gmail.com
 
 
-| **The lazier you are, the more likely you'll miss the people and things yoy like.**
+| **The lazier you are, the more likely you'll miss the people and things you like.**
 
 
 
