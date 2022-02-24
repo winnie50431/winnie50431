@@ -11,7 +11,7 @@
 
 - ✨ I’m Winnie Lin @winnie50431
 - :white_flower: interested in ***coding, drawing and Japanese learning.***
-- 🌱 currently learning ***ReactJS*** to be an Frontend Engineer.
+- 🌱 currently learning ***ReactJS*** to be a Frontend Engineer.
 - 📫 mailto : winnie50431@gmail.com
 
 
