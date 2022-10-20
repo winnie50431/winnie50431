@@ -1,10 +1,3 @@
-
----
-
-"Don't put all eggs in one basket."
-
-"But I just put all my eggs in F2E." - Winnie Lin
-
 ---
 
 *Hello world!* 
@@ -16,7 +9,6 @@
 
 
 | **The lazier you are, the more likely you'll miss the people and things you like.**
-
 
 
 <!---
